@@ -108,3 +108,5 @@ function result = modinv(a, m)
     end
 end
 
+
+# for more information contact imcasnehal@gmail.com
